@@ -1,0 +1,13 @@
+<nav class="navbar navbar-dark bg-dark navbar-expand-md fixed-top">
+  <a class="navbar-brand" href="/">Pittsburgh Data Crew</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div id="navbar" class="navbar-collapse collapse">
+    <ul class="nav navbar-nav justify-content-between">
+      <li id="Home" class="nav-item {% if page.title == 'Home' %}active{% endif %}"><a class="nav-link" href="/">Home</a></li>
+      <li id="Link 1" class="nav-item {% if page.title == 'Link 1' %}active{% endif %}"><a class="nav-link" href="#">Link 1</a></li>
+      <li id="Link 2" class="nav-item {% if page.title == 'Link 2' %}active{% endif %}"><a class="nav-link" href="#">Link 2</a></li>
+    </ul>
+  </div>
+</nav>
