@@ -1,16 +1,16 @@
 /* global d3 */
 const yaWords = {
   'children': [
-    { 'Word': 'book', 'Count': 626 },
     { 'Word': 'like', 'Count': 371 },
-    { 'Word': 'story', 'Count': 298 },
     { 'Word': 'life', 'Count': 255 },
     { 'Word': 'world', 'Count': 252 },
     { 'Word': 'time', 'Count': 251 },
-    { 'Word': 'novel', 'Count': 234 },
-    { 'Word': 'books', 'Count': 233 },
     { 'Word': 'read', 'Count': 233 },
     { 'Word': 'just', 'Count': 205 },
+    { 'Word': 'young', 'Count': 188 },
+    { 'Word': 'little', 'Count': 185 },
+    { 'Word': 'readers', 'Count': 183 },
+    { 'Word': 'new', 'Count': 177 },
   ]
 };
 
@@ -87,16 +87,16 @@ d3.select(self.frameElement)
 // General Fiction bubbles
 const generalWords = {
   children:[
-    { 'Word': 'novel', 'Count': 645 },
-    { 'Word': 'book', 'Count': 561 },
     { 'Word': 'like', 'Count': 415 },
     { 'Word': 'life', 'Count': 341 },
     { 'Word': 'time', 'Count': 276 },
     { 'Word': 'new', 'Count': 258 },
     { 'Word': 'world', 'Count': 256 },
-    { 'Word': 'story', 'Count': 249 },
     { 'Word': 'american', 'Count': 243 },
     { 'Word': 'just', 'Count': 214 },
+    { 'Word': 'mr', 'Count': 212 },
+    { 'Word': 'years', 'Count': 211 },
+    { 'Word': 'people', 'Count': 209 },
   ]
 };
 
