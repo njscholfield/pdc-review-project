@@ -5,3 +5,15 @@ blockquote {
   padding-left: 2rem;
   padding-right: 2rem;
 }
+iframe {
+  width: 100%;
+  height: 70vh;
+}
+.bubbles {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+#cite {
+  overflow-x: scroll;
+}

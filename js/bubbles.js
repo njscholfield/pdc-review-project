@@ -14,7 +14,8 @@ const yaWords = {
   ]
 };
 
-var diameter = 600;
+var div = document.getElementById('bubble1');
+var diameter = div.clientWidth;
 var color = d3.scaleOrdinal(d3.schemeCategory10);
 
 var bubble1 = d3.pack(yaWords)
