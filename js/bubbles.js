@@ -5,12 +5,12 @@ const yaWords = {
     { 'Word': 'life', 'Count': 255 },
     { 'Word': 'world', 'Count': 252 },
     { 'Word': 'time', 'Count': 251 },
-    { 'Word': 'read', 'Count': 233 },
-    { 'Word': 'just', 'Count': 205 },
     { 'Word': 'young', 'Count': 188 },
     { 'Word': 'little', 'Count': 185 },
     { 'Word': 'readers', 'Count': 183 },
     { 'Word': 'new', 'Count': 177 },
+    { 'Word': 'old', 'Count': 171 },
+    { 'Word': 'people', 'Count': 162 },
   ]
 };
 
@@ -93,10 +93,10 @@ const generalWords = {
     { 'Word': 'new', 'Count': 258 },
     { 'Word': 'world', 'Count': 256 },
     { 'Word': 'american', 'Count': 243 },
-    { 'Word': 'just', 'Count': 214 },
     { 'Word': 'mr', 'Count': 212 },
     { 'Word': 'years', 'Count': 211 },
     { 'Word': 'people', 'Count': 209 },
+    { 'Word': 'man', 'Count': 197 },
   ]
 };
 
